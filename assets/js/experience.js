@@ -10,7 +10,7 @@ const exp = [
     cardImage: "assets/images/experience-page/firmcheckerlogo.png",
     place: "FirmChecker",
     time: "(Present)",
-    desp: "<li>Working as a  Full Stack Web Developer at Firmchecker to work on the business's product and liase with team to think, design, develop and deliever the best possible modern web product.</li><li>Work closely with senior developers and CEO to plan and design the new features of the product and work on them.</li><li>Recently launched homepage of firmchecker is my current work on https://www.firmchecker.com.au/ website.</li><li>Technologies used: ReactJS, Javascript, AWS(DyanmoDB, AWS services,), Mysql, API, Adobe XD(for prototyping new feature design), php, Unit testing</li>",
+    desp: "<li>Working as a  Full Stack Web Developer at Firmchecker to work on the business product.</li><li>Liase with team to think, design, develop and deliever the best possible modern web product.</li> <li>Work closely with senior developers and CEO to plan and design the new features of the product and work on them.</li><li>Recently launched homepage of firmchecker is my current work on https://www.firmchecker.com.au/ website.</li><li>Technologies used: ReactJS, Javascript, AWS(DyanmoDB, AWS services,), Mysql, API, Adobe XD(for prototyping new feature design), php, Unit testing</li>",
   },
   {
     title: "Junior Develper",
