@@ -82,7 +82,7 @@ const showCards2 = () => {
               <span class="pre-heading">${place}</span><br>
               <span class="author">${time}</span>
             </p>
-            <ol style="color: grey; font-weight: bold;">
+            <ol style="color: grey; font-weight: bold; justify-content:left;">
               ${desp}
             </ol>
           </header>
