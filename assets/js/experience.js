@@ -7,7 +7,7 @@ const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
     title: "Full Stack Web Developer",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
+    cardImage: "assets/images/experience-page/firmcheckerlogo.png",
     place: "FirmChecker",
     time: "(Present)",
     desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
@@ -70,7 +70,9 @@ const showCards2 = () => {
       (output += `        
     <div class="col gaap" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="400"> 
       <div class="card card1">
-        <img src="${cardImage}" class="featured-image"/">
+        <div style="height: 250px; width: 300px; background-color:white;">
+        <img src="${cardImage}" class="featured-image"/" style="height: fit-content; width:fit-content; margin-top:5em;">
+        </div>
         <article class="card-body">
           <header>
             <div class="title">
