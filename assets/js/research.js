@@ -13,7 +13,6 @@ const research = [
         citation: {
             vancouver: "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
         },
-        absbox: "absPopup1"
     },
 
     {
@@ -26,7 +25,6 @@ const research = [
         citation: {
             vancouver: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis. A Comprehensive Analysis of Preprocessing for Word Representation Learning in Affective Tasks. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
         },
-        absbox: "absPopup3"
     },
 
     {
@@ -39,7 +37,6 @@ const research = [
         citation: {
             vancouver: "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou. A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking. The 58th Annual Meeting of the Association for Computational Linguistics 2020."
         },
-        absbox: "absPopup4"
     },
 
     {
@@ -52,7 +49,6 @@ const research = [
         citation: {
             vancouver: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi. Dual Super-Resolution Learning for Semantic Segmentation. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
         },
-        absbox: "absPopup5"
     },
 
     {
@@ -65,7 +61,6 @@ const research = [
         citation: {
             vancouver: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng. Unsupervised Learning for Intrinsic Image Decomposition From a Single Image. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
         },
-        absbox: "absPopup7"
     },
     {
         title : "Forward and Backward Information Retention for Accurate Binary Neural Networks",
@@ -77,7 +72,6 @@ const research = [
         citation: {
             vancouver: "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan. Forward and Backward Information Retention for Accurate Binary Neural Networks. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2020."
         },
-        absbox: "absPopup8"
     }
 ];
 AOS.init();   
@@ -101,9 +95,7 @@ const fillData = () => {
         
                     <!--CITE BUTTON-->
                     <div class="d-flex" style="margin-right:5%;">
-                        <button class="button button-accent button-small text-right button-abstract " type="button" data-toggle="collapse" data-target="#${absbox}" aria-expanded="false" aria-controls="${absbox}">
-                            ABSTRACT
-                        </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                       
                 
                         <button class="button button-accent button-small text-right button-abstract " type="button" data-toggle="collapse" data-target="#${citebox}" aria-expanded="false" aria-controls="${citebox}">
                             CITE
