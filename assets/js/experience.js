@@ -10,56 +10,56 @@ const exp = [
     cardImage: "assets/images/experience-page/firmcheckerlogo.png",
     place: "FirmChecker",
     time: "(Present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>Working as a  Full Stack Web Developer at Firmchecker to work on the business's product and liase with team to think, design, develop and deliever the best possible modern web product.</li><li>Work closely with senior developers and CEO to plan and design the new features of the product and work on them.</li><li>Recently launched homepage of firmchecker is my current work on https://www.firmchecker.com.au/ website.</li><li>Technologies used: ReactJS, Javascript, AWS(DyanmoDB, AWS services,), Mysql, API, Adobe XD(for prototyping new feature design), php, Unit testing</li>",
   },
   {
     title: "Junior Develper",
     cardImage: "assets/images/experience-page/childhr.svg",
     place: "ChildHr / DiffuzeHR",
     time: "(Contract - 3 months)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Worked with ChildHR and DiffuzeHr , two businesses owned by one to work on their product specialised in HR management with document management and several other features.</li><li>Worked on https://www.childhr.com.au/ and https://diffuzehr.com.au/ websites as per business requirements.</li><li>Liased with CTO to work on different priority based tasks as per business rules</li><li>Technologies used were: php, HTML/CSS/Bootstrap, Javascript, MySQL</li>",
   },
   {
     title: "Full Stack Developer",
     cardImage: "assets/images/experience-page/omm-logo.png",
     place: "OurMoneyMarket / Handypay",
     time: "(multiple roles - part-time, full-time)",
-    desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    desp:"<li>Started as a part-time employee at OurMoneyMarket and Handypay later worked as a full-time employee, to work on both of the products as per business requirements</li><li>Worked on the CRM tool of the organisation to build a end-to-end sales and marketing tool helping in better leads transformation.</li><li>Worked closely with Senior Developers and CTO to develop smart-optimised products, one of the application closely worked on was Vendor Portal used by different vendors of handypay</li><li>Worked on different pages of https://ourmoneymarket.com/ and https://app.handypay.com.au/ websites to meet stakeholders requirements.</li><li>Technologies used were: AngularJS, Salesforce APEX , MySQL, API development, HTML/CSS/Boostrap, Landing Pages using Javascript core and web designing languages.</li>",
   },
   {
     title: "Application Developer",
     cardImage: "assets/images/experience-page/unitedcologo.png",
     place: "United Co.",
     time: "(Contract - 8 months)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Worked on United Co's website as a Application Developer to meet business requireemnts adding on coding logic with the best reliable technology</li><li>Worked on integrations of several third-party application to be able to wkr smoothly with United Co's application for better user-experience.</li><li>Technoloiges used were: Python -Flask for API integrations, php for custom website logic, ReactJS for managing the application side of the website, Javsscript, HTML/CSS for cosmetic functionalities on the website as per busienss rules.</li>",
   },
   {
-    title: "Backend Developer",
+    title: "Developer",
     cardImage: "assets/images/experience-page/relaypaylogo.png",
     place: "RelayPay",
     time: "(Part-time - Internship - 3 months)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    desp: "<li>Worked as a developer with relaypay to help in the development of their product relayay.io and to help in the growth of the startup</li><li>Worked closely with the CEO to maintain the marketing events and research about the cryptocurrency trending keywords, hence embedding them in the product to have better SEO.</li><li>Technologies used were: ReactJS, Python, API development, Javascript, TDD(Unit testing, Integration Testing, Automated Testing.)</li>",
   },
   {
     title: "Software Engineer",
     cardImage: "assets/images/experience-page/dell.png",
     place: "Dell Technologies",
-    time: "2 years",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    time: "2 years -(2018 - 2020)",
+    desp: "<li>Worked as a Software Engineer being a part of dell's automation team to build, develop, design numeorus applications to help in process optimisation and reduce manual efforts , bringing smarter solutions.</li><li>Also developed tools working as ROBOTS using RPA technology to deleiver scheduling based applications used within dell to upload banners on occasions like <i>BLACK FRIDAY SALE`</i>` on different coutries domain.</li><li>During my two years of work at dell, the tools I have worked on are currently being used by different teams within dell fulfilling the application vision.</li><li>The technologies worked on were Python, Flask and Django frameworks, MYSQL, MongoDB, AngularJS, ReactJS, Javascript core, HTML/CSS, RPA(Robotic Process Automation tools and frameworks), TDD ( Unit testing, Integration Testing, Automated Testing.)</li>",
   },
   {
     title: "Winter Internship - Software Intern",
     cardImage: "assets/images/experience-page/emc.png",
     place: "Dell EMC Corporation",
-    time: "6 months",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    time: "6 months - 2018",
+    desp: "<li>Worked as a Software Intern and helped TMX team of DELL EMC to deliever smooth dell.com pages.</li><li>Worked on numerous dell.com pages for different countries using Salesforce Web VisualPage Designer , adding custom code as per business rule and requirements.</li><li>The pages designed and built are currently used on different occassions of maketing and advertising on dell.com website</li><li>In addition, worked on several softwares to help TMX team(Team Member Experience) to enhace workability and get optimistic results.</li><li>Technologies used were - Javascript, Python, Salesforce APEX scripting, Mysql, TDD (Unit testing only), RDBMS, HTML/CSS/BOOTSTRAP</li>",
   },
   {
     title: "Summer Internship - Software Developer Intern",
     cardImage: "assets/images/experience-page/dell.png",
     place: "Dell Technologies",
-    time: "6 months",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    time: "6 months -2017",
+    desp: "<li>Worked on my first IT industry based real-project for dell, currently globally used within dell by various teams.</li> <li>Developed an application called <strong>EZYBROWSE</strong> which reduced total manual hours of 1250 per annum of dell employees.</li><li>The tool was buld with a aim to automate several internal processes to be able to fetch URL'S FOR 28 LOCALES & 180 COUNTRIES for dell.com</li><li>The teams are able to use this tool now and able to fetch links just with a single click with less human labour required.</li><li>Technologies used were - ASP.NET, Javascript, API development, php, HTML/CSS/BOOTSTRAP, MySQL</li>",
   },
 ];
 
@@ -82,7 +82,7 @@ const showCards2 = () => {
               <span class="pre-heading">${place}</span><br>
               <span class="author">${time}</span>
             </p>
-            <ol>
+            <ol style="color: grey; font-weight: bold;">
               ${desp}
             </ol>
           </header>
@@ -101,29 +101,18 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Dell Hackathon Runner-Up",
+    cardImage: "assets/images/experience-page/dellhackathon.jpeg",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "Runner-up at one of the DELL organised Hackathon, worked with a team to develop a innovative tool using different technologies with a aim to achieve Artificial Intelligence",
   },
   {
     title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    cardImage: "assets/images/experience-page/rusu.png",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Worked as a volunteer at RMIT RUSU(RMIT Student Union) to socialise and help in different events.",
   },
-  {
-    title: "PClub Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/3.jpg",
-    description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
-  },
-  {
-    title: "Hakin-Codes",
-    cardImage: "assets/images/experience-page/4.jpg",
-    description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
-  },
+
 ];
 
 const showCards = () => {
@@ -153,96 +142,34 @@ const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
     title: "The Uplift Project",
-    subtitle: "Mentor",
     image: "assets/images/experience-page/uplift.png",
     desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
   },
   {
     title: "ULHacks",
-    subtitle: "Judge",
     image: "assets/images/experience-page/ulhacks.png",
     desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
   },
   {
     title: "WaffleHacks",
-    subtitle: "Judge",
     image: "assets/images/experience-page/wafflehacks.png",
     desp: "WaffleHacks 2021 is an upcoming 48-hour student-organized hackathon with an aim to bring technical solutions to local communities and small businesses.",
   },
   {
     title: "Elevate Tech",
-    subtitle: "Judge",
     image: "assets/images/experience-page/elevate.png",
     desp: "Elevate Hacks is an upcoming all-female virtual hackathon coming from AUGUST 14th to 15th.",
   },
   {
     title: "PitchTeen",
-    subtitle: "Judge",
     image: "assets/images/experience-page/pitchteen.png",
     desp: "PitchTeen 2.0 was a tech startup competition for female and non-binary communities in high school and college from all over the world with an aim to create a safe and encouraging place for women to help them explore tech and business fields.",
   },
   {
     title: "Hack-A-Solution",
-    subtitle: "Judge",
     image: "assets/images/experience-page/hackasolution.png",
     desp: "Hack-a-Solution 2021 is a 24 hour long hackathon organized by Frisco students to raise awareness of world issues through technology.",
   },
-  {
-    title: "UniGlobe Hacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/uniglobe.png",
-    desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
-  },
-  {
-    title: "AtlasHacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/atlas.png",
-    desp: "AtlasHacks II is a 3-day virtual hackathon that aims to foster creativity within hackers all around the world.",
-  },
-  {
-    title: "NeoHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/neo.png",
-    desp: "NeoHacks is an upcoming 48-hour hackathon taking place July 23-25, 2021 where hundreds of students from around the world will come together virtually to learn new skills, meet new friends, and build awesome projects. We provide beginner-friendly workshops, mentorship, fun games, and more.",
-  },
-  {
-    title: "Mission Inspired",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/mission.png",
-    desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding experience into a product beneficial to the educational community.",
-  },
-  {
-    title: "Hack3",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/hack3.png",
-    desp: "Hack3 2021 is an upcoming global online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
-  },
-  {
-    title: "JITHack",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/jithack.png",
-    desp: "JITHack is an upcoming virtual design and development hackathon organized by the students of Jyothy Institute of Technology, Bengaluru on June 26, 2021, where participants have 24 hours to build something incredible.",
-  },
-  {
-    title: "Recess Hacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/recess.png",
-    desp: "Recess Hacks is an upcoming hackathon for high school students in the Greater Toronto Area that strives to encourage innovation among high school students and get involved in technology.",
-  },
-  {
-    title: "Citro Tech",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/citro.png",
-    desp: "Citro Hacks 2021 is an upcoming all-inclusive online hackathon organized by Citro Tech, a student led organization dedicated to empowering minorities in the tech field</li>",
-  },
-  {
-    title: "NHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/nhacks.png",
-    desp: "NHacks VI was a hackathon that aimed to encourage students everywhere to develop skills in computer science by creating tangible products that they're proud of. It initially started as Michigan's largest high school hackathon.",
-  }
-  
-
 ];
 
 const showCards3 = () => {
@@ -256,9 +183,7 @@ const showCards3 = () => {
         </div>
         <div class="blog-slider__content">
           <div class="blog-slider__title">${title}</div>
-          <span class="blog-slider__code">${subtitle}</span>
           <div class="blog-slider__text">${desp}</div>
-          <a href="#" class="blog-slider__button">Read More</a>   
         </div>
       </div>
       `)
