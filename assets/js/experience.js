@@ -70,8 +70,8 @@ const showCards2 = () => {
       (output += `        
     <div class="col gaap" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="400"> 
       <div class="card card1">
-        <div style="height: 250px; width: 300px; background-color:white;">
-        <img src="${cardImage}" class="featured-image"/" style="height: fit-content; width:fit-content; margin-top:5em;">
+        <div style="background-color:white;">
+        <img src="${cardImage}" class="featured-image"/" style="margin-top:85%;">
         </div>
         <article class="card-body">
           <header>
