@@ -6,25 +6,60 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
+    title: "Full Stack Web Developer",
     cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
+    place: "FirmChecker",
+    time: "(Present)",
     desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
+    title: "Junior Develper",
+    cardImage: "assets/images/experience-page/childhr.svg",
+    place: "ChildHr / DiffuzeHR",
+    time: "(Contract - 3 months)",
     desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
+    title: "Full Stack Developer",
+    cardImage: "assets/images/experience-page/omm-logo.png",
+    place: "OurMoneyMarket / Handypay",
+    time: "(multiple roles - part-time, full-time)",
     desp:"<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+  },
+  {
+    title: "Application Developer",
+    cardImage: "assets/images/experience-page/unitedcologo.png",
+    place: "United Co.",
+    time: "(Contract - 8 months)",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+  },
+  {
+    title: "Backend Developer",
+    cardImage: "assets/images/experience-page/relaypaylogo.png",
+    place: "RelayPay",
+    time: "(Part-time - Internship - 3 months)",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+  },
+  {
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/dell.png",
+    place: "Dell Technologies",
+    time: "2 years",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+  },
+  {
+    title: "Winter Internship - Software Intern",
+    cardImage: "assets/images/experience-page/emc.png",
+    place: "Dell EMC Corporation",
+    time: "6 months",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+  },
+  {
+    title: "Summer Internship - Software Developer Intern",
+    cardImage: "assets/images/experience-page/dell.png",
+    place: "Dell Technologies",
+    time: "6 months",
+    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
   },
 ];
 
@@ -35,7 +70,7 @@ const showCards2 = () => {
       (output += `        
     <div class="col gaap" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="400"> 
       <div class="card card1">
-        <img src="${cardImage}" class="featured-image"/>
+        <img src="${cardImage}" class="featured-image"/">
         <article class="card-body">
           <header>
             <div class="title">
